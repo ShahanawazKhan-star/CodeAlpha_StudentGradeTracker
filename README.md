@@ -1,6 +1,6 @@
-# CodeAlpha Student Grade Tracker
+# Student Grade Tracker
 
-A Java-based console application developed as part of the CodeAlpha Java Programming Internship.
+A Java-based console application developed
 
 ## Features
 
